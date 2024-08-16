@@ -1,0 +1,7 @@
+Laser Visualisierung G67HP:
+
++ Laser Counter implementiert (23.09.2008)
++ programnummer wechsel mit passwort.
+
+( + am 13.11.2008 alle 3 versionen upgedated.)
+
